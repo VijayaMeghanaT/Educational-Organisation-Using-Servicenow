@@ -1,1 +1,2 @@
-This
+This folder contains the output
+
